@@ -5,7 +5,7 @@ Me formei como tecnco em informática em 2011 e me graduei em Analise e Desenvol
 
 <i>Sou apaixonado por font-end e sempre quis desenvolver minhas habilidades com web desingner, por isso quero muito me tornar um bom profissional e até referecia mercado de trabalho.</i>
 
-<div align="center">
+<div>
   <a href="https://github.com/leosoaresws">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosoaresws&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosoaresws&layout=compact&langs_count=7&theme=city_lights"/>
