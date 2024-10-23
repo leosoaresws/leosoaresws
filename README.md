@@ -3,7 +3,7 @@
 <p>Atualmente sou desenvolvedor pleno numa multinacional.
 Me formei como tecnco em informática em 2011 e me graduei em Analise e Desenvolvimento em 2017.</p>
 
-<i>Sou apaixonado por font-end e sempre quis desenvolver minhas habilidades com web desingner, por isso quero muito me tornar um bom profissional e até referecia mercado de trabalho.</i>
+<i>Sou apaixonado por font-end e sempre quis desenvolver minhas habilidades com web desingner, por isso quero muito me tornar um bom profissional e referecia mercado de trabalho.</i>
 
 <div align="center">
   <a href="https://github.com/leosoaresws">
